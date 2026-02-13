@@ -1,4 +1,4 @@
-# Pneumonia-Detection-Model
+
 # Pneumonia Detection using Chest X-Rays
 
 ## Step-by-step summary (quick)
